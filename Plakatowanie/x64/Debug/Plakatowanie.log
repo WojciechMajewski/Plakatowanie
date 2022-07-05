@@ -1,3 +1,3 @@
 ﻿  solution.cpp
-C:\Users\Wojciech\Documents\GitHub\Plakatowanie\Plakatowanie\solution.cpp(20,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wojciech\Documents\GitHub\Plakatowanie\Plakatowanie\solution.cpp(9,7): warning C4101: 'is_redundant': unreferenced local variable
   Plakatowanie.vcxproj -> C:\Users\Wojciech\Documents\GitHub\Plakatowanie\x64\Debug\Plakatowanie.exe
